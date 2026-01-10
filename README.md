@@ -6,7 +6,7 @@ In an era where **data-driven decision-making** is paramount, the ability to eff
 
 The **Modular Web Scraping Pipeline** is engineered to provide a **robust, extensible, and configurable framework** for automating **multi-source data extraction**. It streamlines the process of data collection, transformation, and storage, enabling seamless integration with downstream analytical workflows.
 
-🔗 **GitHub Repository**: [Modular Web Scraping Pipeline](https://github.com/shanjai1511/web-scrapping-pipeline)
+🔗 **GitHub Repository**: [Modular Web Scraping Pipeline](https://github.com/shanjai1511/web-scraping-pipeline)
 
 ---
 
@@ -108,4 +108,4 @@ By **decoupling components**, the system allows easy customization for diverse s
 The **Modular Web Scraping Pipeline** is a **scalable and configurable solution** for systematic extraction of structured web data. Its **modular architecture** enhances adaptability, efficiency, and resilience—making it a powerful tool for **industry practitioners** and **academic researchers** working on large-scale data acquisition and analysis.
 
 🔗 For full implementation details, check the GitHub repository:
-👉 [Modular Web Scraping Pipeline](https://github.com/shanjai1511/web-scrapping-pipeline)
+👉 [Modular Web Scraping Pipeline](https://github.com/shanjai1511/web-scraping-pipeline)
